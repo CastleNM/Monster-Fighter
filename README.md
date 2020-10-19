@@ -1,4 +1,4 @@
-# Monster-Fighter
+# DMGuide
 print("""
 	
 "Welcome great adventurer!
