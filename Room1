@@ -1,0 +1,13 @@
+def room_area():
+	print("""
+	Once you entred from a medium sized gap of a cave you head off deapper into the cave.
+	you head into the cave and noticed two cave paths, on the left side of the cave you see a bit of light and small noises, on the right side of the cave that looks very dark and spder webs around the entrence.
+	
+	What would you like to do?
+	(l) go left, (r) go right, (e) exit
+""")
+
+def Monster_appears():
+	monster = random.choices('dire rat')
+	if monster == 'dire rat'
+	print("""you hear a startled squeak and shrieks from the cave in front of you.""")
