@@ -1,0 +1,11 @@
+#abilities: strength, agility and health
+from DmGuide.dicebag import D10
+character_creater = {
+	
+	strength = D10
+	agility = D10
+	health = D10
+}
+
+
+return strength, agility, health

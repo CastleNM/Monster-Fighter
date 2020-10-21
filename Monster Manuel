@@ -1,0 +1,9 @@
+class BasicMonster:
+	def __init__(self monster_name, strength, agility, health):
+		self.monster_name = monster_name
+		self.strength = strength
+		self.agility = agility
+		self.health = health
+		
+class uglyRat(BasicMonster, 'Dire rat', 3, 8, 3):
+	pass
